@@ -1,3 +1,6 @@
+
+讲解：https://juejin.im/post/5aef1a54f265da0b8a678624?utm_source=gold_browser_extension
+
 # ArmsComponent
 [ ![Build Status](https://travis-ci.org/JessYanCoding/ArmsComponent.svg?branch=master) ](https://travis-ci.org/JessYanCoding/ArmsComponent)
 [ ![API](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat-square) ](https://developer.android.com/about/versions/android-4.1)
